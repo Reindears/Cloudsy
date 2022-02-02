@@ -1,6 +1,6 @@
 ## Cloudsy Bot
-<p align=center>
-<img src="https://socialify.git.ci/Reindears/Cloudsy/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Ffreepngimg.com%2Fthumb%2Fiphone%2F68112-cloud-apple-drive-icloud-iphone-free-frame.png&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" alt="Cloudsy" width="640" height="320" />
+
+### A simple bot to upload file to various cloud servers.
 
 ---
 ## Variables
