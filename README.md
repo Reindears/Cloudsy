@@ -22,7 +22,7 @@
 
 ---
 
-## Thanks
+## Thanks & Credits
 [Dan](https://github.com/delivrance "Dan") for [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
 
 [Fayas](https://github.com/Fayasnoushad "Fayas Noushad") for Gofile | Pixeldrain Bot.
