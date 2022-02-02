@@ -12,6 +12,14 @@
 
 ---
 
+## Supported Clouds
+
+- `Gofile`
+- `Pixeldrain`
+- `Anonfiles`
+
+---
+
 <details>
     <summary><b>Deploy To Heroku</b></summary>
     <p align="left"></p>
