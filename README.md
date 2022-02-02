@@ -1,6 +1,6 @@
 ## Cloudsy Bot
 
-### A simple bot to upload file to various cloud servers.
+#### A simple bot to upload file to various cloud servers.
 
 ---
 ## Variables
