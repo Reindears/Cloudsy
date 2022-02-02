@@ -201,7 +201,7 @@ async def medias(bot, update):
 @Cloudsy.on_callback_query(filters.regex(r"gofile"))
 async def filterpix(bot, data: CallbackQuery):
     message = await data.message.edit_text(
-        text="`Processing...`"
+        text="Processing file"
     )
     try:
         # download
@@ -236,7 +236,7 @@ async def filterpix(bot, data: CallbackQuery):
     text = f"**File Name:** `{response['fileName']}`" + "\n"
     text += f"**Download Page:** `{response['downloadPage']}`" + "\n"
     text += f"**Direct Download Link:** `{response['directLink']}`" + "\n"
-    text += f"**Info:** `{response['info']}`"
+    text += f"__{response['info']}__"
     reply_markup = InlineKeyboardMarkup(
         [
             [
