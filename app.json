@@ -1,0 +1,40 @@
+{
+    "name": "Cloud-Upload-Bot",
+    "description": "A Bot that can upload file to various cloud servers",
+    "logo": "https://freepngimg.com/thumb/iphone/68111-apple-app-drive-iphone-icloud-logo-my.png",
+    "keywords": [
+        "Cloud",
+        "Gofile",
+        "Telegram Bot",
+        "Pixeldrain"
+    ],
+    "website": "https://github.com/Reindears",
+    "repository": "https://github.com/Reindears/Cloudsy",
+    "success_url": "https://telegram.dog/SyBots",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFatherXD",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Your APP ID from my.telegram.org",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
