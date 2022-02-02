@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+pixeldrain
+requests
+asyncio
+aiohttp
