@@ -1,6 +1,7 @@
 ## Cloudsy Bot
 <p align=center>
 <img src="https://socialify.git.ci/Reindears/Cloudsy/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&logo=https%3A%2F%2Ffreepngimg.com%2Fthumb%2Fiphone%2F68111-apple-app-drive-iphone-icloud-logo-my.png&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cloudsy" width="640" height="320" /></p>
+
 ---
 ## Variables
 
