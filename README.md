@@ -15,7 +15,6 @@
 <details>
     <summary><b>Deploy To Heroku</b></summary>
     <p align="left"></p>
-  <br>
     <a href="https://heroku.com/deploy?template=https://github.com/Reindears/Cloudsy">
         <img height="30px" src="https://www.herokucdn.com/deploy/button.svg">
     </a>
