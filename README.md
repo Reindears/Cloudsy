@@ -35,6 +35,4 @@
 [Fayas](https://github.com/Fayasnoushad "Fayas Noushad") for Gofile | Pixeldrain Bot.
 
 [Imjanindu](https://github.com/imjanindu "ImJanindu") for Anonfiles Bot.
-<hr>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align=center>
